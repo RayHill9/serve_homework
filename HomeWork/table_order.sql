@@ -1,0 +1,11 @@
+truncate table_order;
+INSERT INTO `table_order` (`id`, `brand`, `username`, `price`, `quantity`) VALUES (1, '手机', 'as1', 7999, 1);
+INSERT INTO `table_order` (`id`, `brand`, `username`, `price`, `quantity`) VALUES (2, 'ipad', 'as1', 4999, 1);
+INSERT INTO `table_order` (`id`, `brand`, `username`, `price`, `quantity`) VALUES (3, '手机', 'as3', 31996, 4);
+INSERT INTO `table_order` (`id`, `brand`, `username`, `price`, `quantity`) VALUES (4, '键盘', 'boss', 4797, 3);
+INSERT INTO `table_order` (`id`, `brand`, `username`, `price`, `quantity`) VALUES (5, '平板电脑', 'as1', 10999, 1);
+INSERT INTO `table_order` (`id`, `brand`, `username`, `price`, `quantity`) VALUES (6, 'switch', 'as1', 2199, 1);
+INSERT INTO `table_order` (`id`, `brand`, `username`, `price`, `quantity`) VALUES (7, '鼠标', 'as2', 1495, 5);
+INSERT INTO `table_order` (`id`, `brand`, `username`, `price`, `quantity`) VALUES (8, '耳机', 'boss', 796, 4);
+INSERT INTO `table_order` (`id`, `brand`, `username`, `price`, `quantity`) VALUES (9, '耳机', 'as1', 199, 1);
+INSERT INTO `table_order` (`id`, `brand`, `username`, `price`, `quantity`) VALUES (10, 'switch', 'as2', 6597, 3);
